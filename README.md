@@ -5,7 +5,7 @@ The idea behind this workflow is to show a way on how you can leverage all the a
 
 ---
 
-> I've wrote about this in more detail over on [my website](http://lukewhitehouse.co.uk/blog/svg-icon-workflow/), give it a read if you have time.
+I've wrote about this in more detail over on [my website](http://lukewhitehouse.co.uk/blog/svg-icon-workflow/), give it a read if you have time.
 
 ---
 
