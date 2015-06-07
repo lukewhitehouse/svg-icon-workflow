@@ -8,3 +8,6 @@ bower_components
 components
 /node_modules
 /npm-debug.log
+
+# Dist folders
+assets/dist/icons

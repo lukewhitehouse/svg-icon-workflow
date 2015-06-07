@@ -37,7 +37,7 @@ gulp.task('sprites', ['svg2png'], function () {
 
         // Run the svg-symbols module, whilst prefixing the created classnames
         .pipe(
-            plugins.svgSymbols({
+            svgSymbols({
                 className: '.icon--%f',
                 title: false
             })
