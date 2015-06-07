@@ -1,0 +1,20 @@
+{
+  "name": "svg-icon-workflow",
+  "version": "0.0.1",
+  "description": "An SVG icon workflow utilising Gulp as a build tool and providing fallbacks for older browsers",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lukewhitehouse/svg-icon-workflow"
+  },
+  "author": "Luke Whitehouse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukewhitehouse/svg-icon-workflow/issues"
+  },
+  "homepage": "https://github.com/lukewhitehouse/svg-icon-workflow",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-svg-symbols": "^0.3.1",
+    "gulp-svg2png": "^0.3.0"
+  }
+}
