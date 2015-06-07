@@ -31,6 +31,8 @@ If you'd like to leave me feedback on the workflow or even better, would conside
 
 ## Credits
 
+![](http://media.giphy.com/media/y8fXirTJjj6E0/giphy.gif)
+
 Heres a list of awesome people/project which made this workflow possible.
 
 #### Packages
