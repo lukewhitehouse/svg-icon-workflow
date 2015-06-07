@@ -3,7 +3,11 @@ An SVG icon workflow utilising Gulp as a build tool and providing fallbacks for 
 
 The idea behind this workflow is to show a way on how you can leverage all the awesome features that SVGs have to offer within an Icon system, whilst still providing fallbacks for older browsers.
 
-I've wrote about this in more detail over on [my website](http://lukewhitehouse.co.uk/blog/svg-icon-workflow/), give it a read if you have time.
+---
+
+> I've wrote about this in more detail over on [my website](http://lukewhitehouse.co.uk/blog/svg-icon-workflow/), give it a read if you have time.
+
+---
 
 ## Usage
 
