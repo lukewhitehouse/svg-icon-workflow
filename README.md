@@ -33,6 +33,10 @@ You'll need the following to utilise this workflow in your own projects:
 
 If you'd like to leave me feedback on the workflow or even better, would consider contributing to it, then please use the [Issues](https://github.com/lukewhitehouse/svg-icon-workflow/issues) or [Pull Requests](https://github.com/lukewhitehouse/svg-icon-workflow/pulls) to help consolidate everything for others to see.
 
+## Roadmap
+
+- Add 'exclusion' class to the Fallback for any SVGs you don't want converting. Perhaps they don't require a Fallback?
+
 ## Credits
 
 ![](http://media.giphy.com/media/y8fXirTJjj6E0/giphy.gif)
