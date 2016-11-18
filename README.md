@@ -9,7 +9,7 @@ I've wrote about this in more detail over on [my website](http://lukewhitehouse.
 
 ---
 
-In light of the feedback I've been getting from a [cheeky retweet](https://twitter.com/Real_CSS_Tricks/status/799371537253945345) by CSS Tricks, I'm going to be creating an updated post over on my Web Development blog, [Assortment](https://assortment.io), follow the blog on [twitter](https://twitter.com/assortmentio) for updates.
+UPDATE 20161118: In light of the feedback I've been getting from a [cheeky retweet](https://twitter.com/Real_CSS_Tricks/status/799371537253945345) by CSS Tricks, I'm going to be creating an updated post over on my Web Development blog, [Assortment](https://assortment.io), follow the blog on [twitter](https://twitter.com/assortmentio) for updates.
 
 ---
 
