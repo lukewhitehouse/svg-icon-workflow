@@ -3,16 +3,6 @@ An SVG icon workflow utilising Gulp as a build tool and providing fallbacks for 
 
 The idea behind this workflow is to show a way on how you can leverage all the awesome features that SVGs have to offer within an Icon system, whilst still providing fallbacks for older browsers.
 
----
-
-I've wrote about this in more detail over on [my website](http://lukewhitehouse.co.uk/blog/svg-icon-workflow/), give it a read if you have time.
-
----
-
-UPDATE 2016-11-18: In light of the feedback I've been getting from a [cheeky retweet](https://twitter.com/Real_CSS_Tricks/status/799371537253945345) by CSS Tricks, I'm going to be creating an updated post over on my Web Development blog, [Assortment](https://assortment.io), follow the blog on [twitter](https://twitter.com/assortmentio) for updates.
-
----
-
 ## Usage
 
 This repository has been setup to act as a demonstration on how you can use this proposed workflow in your projects. Please use the following guide to learn how to utilise the workflow, then feel free to modify this into your own projects.
